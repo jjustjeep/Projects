@@ -1,7 +1,7 @@
 # Application of EM algorithm in parameter estimation for normal mixture models
-Sutthida Wongchai, Kuntalee Chaisee Pd.D and Kamonrat Suphawan Ph.D
+Sutthida Wongchai, Kuntalee Chaisee Pd.D and Kamonrat Suphawan Ph.D, Department of Statistics, Faculty of Science, Chiang Mai University
 
-Department of Statistics, Faculty of Science, Chiang Mai University
+
 
 ### Abstract
 
