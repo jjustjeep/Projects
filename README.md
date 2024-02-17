@@ -18,6 +18,11 @@ The data consists of 56 values of monthly average hights of rainfall July to Oct
 We found that 3 stations has about 95% , so most observations comes from the smaller group of normal mixture. The means of normal mixture distribution with the smaller amount of rainfall of Huikeaw, Huimoh and Panghai stations are about 6.06, 7.44 and 9.15 respectively. And, the means of normal mixture distribution with the larger amount of rainfall are about 17.66, 15.85 and 21.66 respectively. 
 In conclusion, the normal mixture model seems more suitable for the rainfall data than the normal model because the density curves with the estimated values fit the data better.
 
+### Coding
+
+
+
+
 ### Preferences
 1. Arthur P. Dempster, Nan Laird, and Donald B. Rubin (1977). Maximum likelihood from incomplete data via the EM algorithm. Journal of the Royal Statistical Society B, 39, 1-38. 
 2. Christopher M. Bishop (2006). Pattern recognition and machine learning. Singapore: Springer. 
