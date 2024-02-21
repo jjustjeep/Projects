@@ -19,7 +19,6 @@ Table 2: Estimated parameters of the normal mixture distribution with two compon
 <img width="273" alt="Screen Shot 2024-02-21 at 17 50 28" src="https://github.com/jsutthida/Projects/assets/160230541/6ea48b9c-6a29-48ff-b140-7cd86880bee6">
 
 Histograms and density curves with estimated values from Table 1 and Table 2
-<p align="center">
 ![page1image1941424](https://github.com/jjustjeep/Projects/assets/160230541/4fe727fd-65aa-4da4-a0b0-59305e3834b5)
 ![page1image1941424](https://github.com/jjustjeep/Projects/assets/160230541/dfd11775-2a5c-429e-9c79-3e6af1911242)
 ![page1image1941632](https://github.com/jjustjeep/Projects/assets/160230541/2314b996-963c-4091-ac6b-7f3636f269f7)
